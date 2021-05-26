@@ -1,10 +1,10 @@
-# LazyLoadingDemo
+# Lazy Loading Demo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version X 1.7.1.
 
-## Download Node_Modules
+## Download Node Modules
 
-Run `npm install` for downloading node_modules.
+Run `npm install` for downloading node modules.
 
 ## Development server
 
